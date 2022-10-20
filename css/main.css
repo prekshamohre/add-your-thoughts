@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=poppins:400,500,700,900');
+
+body{
+  background-color:#4FC3F7;
+  overflow:hidden;
+  font-family: 'Raleway';
+}
+
+.main-wrap{
+  padding:3%;
+}
+
+.table.table-striped {
+  width:100%;
+    border-collapse: collapse;
+      background: #fff;
+    overflow: hidden;
+    box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -o-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+    -ms-box-shadow: 0 0px 40px 0px rgba(0, 0, 0, 0.15);
+}
+
+.table.table-striped thead {
+    background: #fff;
+    box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.table.table-striped th {
+    padding: 0.9rem 0.5rem;
+    font-weight: bold;
+      border: 1px solid #efefef;
+    text-align: left;
+    border-top: 0px;
+}
+
+.table.table-striped tbody tr:nth-child(odd){
+    background-color: rgba(0,0,0,.02);
+}
+
+.table.table-striped tbody tr td a {
+    color: #3c2f17;
+    font-size: 15px;
+    text-decoration:none;
+  font-weight:500;
+}
+
+.table.table-striped tr:nth-child(even) {
+    background-color: #fff;
+}
+
+.table.table-striped tbody tr td {
+    border: 1px solid #efefef;
+    padding: 0.7rem;
+    text-align: left;
+    border-top: 0px;
+}
+span{
+    color: #272727;
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-weight: 400;
+}
+div > div{
+    margin-top: 30px;
+}
