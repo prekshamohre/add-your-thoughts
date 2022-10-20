@@ -24,3 +24,5 @@ In this file, describe your vission. People will love to read your thoughts.
 
 
 After you done, just PR. hacktoberfest label will be added.
+## JOIN OUR COMMMUNITY
+DISCORD - [JOIN](https://discord.gg/6XRTeHRxWV)
